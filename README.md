@@ -8,11 +8,13 @@
 <a href="https://github.com/wellington90">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellington90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington90&layout=compact&langs_count=7&theme=dracula"/>
-<br>
+ <br><br>
 </div>
 
+ 
+
  ## Ferramentas e Tecnologias
-<div>
+<div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Docker logo" height="60" width="60">
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Docker logo" height="60" width="60">
