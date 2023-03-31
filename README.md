@@ -14,7 +14,7 @@
  <br><br>
 
 <div  align="center"> 
- Ferramentas e Tecnologias Utilizadas.
+ <h1 align="center">Ferramentas e Tecnologias Utilizadas.</h1>
 </div>
  <div  align="center"> 
 <div style="display: flex; justify-content: center;">
