@@ -38,4 +38,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Docker logo" height="60" width="60">
 </div>
 <br>
-![Snake animation](https://github.com/wellington90/wellington90/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/wellington90/wellington90/blob/output/github-contribution-grid-snake.svg)
