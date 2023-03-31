@@ -10,11 +10,16 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington90&layout=compact&langs_count=7&theme=dracula"/>
  <br><br>
 </div>
+ <br><br>
 
  
-
+<div style="display: flex; justify-content: center;">
+  <div>
  ## Ferramentas e Tecnologias Utilizadas.
-<div> 
+</div>
+</div
+<div style="display: flex; justify-content: center;">
+  <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Docker logo" height="60" width="60">
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Docker logo" height="60" width="60">
@@ -32,7 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Docker logo" height="60" width="60">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Docker logo" height="60" width="60">
-</dib>
- 
- <br>
+  </div>
+</div
+
 
