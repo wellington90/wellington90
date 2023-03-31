@@ -13,11 +13,9 @@
  <br><br>
 
  
-<div style="display: flex; justify-content: center;">
-  <div>
+
  ## Ferramentas e Tecnologias Utilizadas.
-</div>
-</div
+
 <div style="display: flex; justify-content: center;">
   <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Docker logo" height="60" width="60">
@@ -37,7 +35,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Docker logo" height="60" width="60">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Docker logo" height="60" width="60">
-  </div>
-</div
+
 
 
