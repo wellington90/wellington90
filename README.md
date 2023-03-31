@@ -13,7 +13,7 @@
 
  
 
- ## Ferramentas e Tecnologias
+ ## Ferramentas e Tecnologias Utilizadas.
 <div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Docker logo" height="60" width="60">
  
