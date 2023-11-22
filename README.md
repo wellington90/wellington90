@@ -39,4 +39,4 @@
 </div>
 <br>
 
- ![Snake animation](https://github.com/wellington90/wellington90/blob/output/github-contribution-grid-snake.svg)
+
