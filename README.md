@@ -33,8 +33,8 @@ Estou constantemente atualizado com as mais recentes inovações tecnológicas, 
 
 ## Projetos Pessoais
 
-### [Django on Dock MySQL Lib:](https://github.com/wellington90/biblioteca-dockr-mysql)
-Descrição A biblioteca "dockr-mysql" com integração Django facilita a gestão e a implementação de ambientes MySQL em contêineres Docker, proporcionando uma solução eficiente para o desenvolvimento e teste de aplicações Django. Simplifica a configuração e a manipulação de instâncias MySQL em ambientes Docker, promovendo uma experiência de desenvolvimento mais ágil e flexível..
+### [Biblioteca Django on Dock MySQL Lib:](https://github.com/wellington90/biblioteca-dockr-mysql)
+Descrição A biblioteca com integração Django facilita a gestão e a implementação de ambientes MySQL em contêineres Docker, proporcionando uma solução eficiente para o desenvolvimento e teste de aplicações Django. Simplifica a configuração e a manipulação de instâncias MySQL em ambientes Docker, promovendo uma experiência de desenvolvimento mais ágil e flexível..
 
 ### [BackupS3:](https://github.com/wellington90/backup-s3)
 Breve descrição: Este script faz o upload de arquivos de um diretório local para um bucket do Amazon S3. Ele compara o tamanho e a data de modificação de cada arquivo local com o arquivo correspondente no bucket do S3. Se o arquivo local for mais novo ou tiver um tamanho diferente, ele faz o upload do arquivo para o S3. Caso contrário, ele pula o arquivo.
