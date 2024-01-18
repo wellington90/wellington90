@@ -15,22 +15,6 @@ Além disso, possuo um profundo conhecimento em ferramentas de contêineres, com
 
 Estou constantemente atualizado com as mais recentes inovações tecnológicas, mantendo-me na vanguarda do desenvolvimento de software. Minha abordagem é centrada na qualidade e eficiência, e estou preparado para enfrentar desafios complexos, contribuindo significativamente para o sucesso de projetos inovadores. Minha busca contínua por excelência técnica reflete meu compromisso em oferecer soluções de alto desempenho e inovadoras em todas as etapas do desenvolvimento de software.
 
-
-## Experiência Profissional
-
-### Desenvolvedor de Software | Empresa ABC (Cidade, Estado) | MM/AAAA - Atual
-- Desenvolvimento e manutenção de aplicações web utilizando tecnologias como React, Node.js, e MongoDB.
-- Colaboração em equipe para entrega de projetos dentro do prazo e com alta qualidade.
-
-### Estagiário em Desenvolvimento | Empresa XYZ (Cidade, Estado) | MM/AAAA - MM/AAAA
-- Participação ativa no desenvolvimento de novas funcionalidades para sistemas internos.
-- Colaboração em projetos de equipe, aprendendo boas práticas de programação.
-
-## Educação
-
-### Bacharel em Sistema de Informação | Faculdade UNIGUAÇU (união da vitória ,Paraná) | 
-- Destaque em Projetos de Conclusão de Curso: "A conceitualização sobre as principais vunerabilidades e as técnicas para garantir a segurança de um sistema web".
-
 ## Projetos Pessoais
 
 ### [Biblioteca Django on Dock MySQL:](https://github.com/wellington90/biblioteca-dockr-mysql)
