@@ -6,7 +6,11 @@
 - **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/wellington-santos-84b9ba24a/)
 
 ## Resumo
-Desenvolvedor de software apaixonado por criar soluções eficientes e inovadoras. Com experiência em desenvolvimento web, focado em tecnologias modernas e boas práticas de programação.
+Desenvolvedor de software apaixonado por criar soluções eficientes e inovadoras. Possuo experiência sólida em desenvolvimento web, com foco especializado em tecnologias modernas e aplicação de boas práticas de programação. Sou especializado em desenvolvimento utilizando Python e Django para construir aplicações robustas e escaláveis.
+
+Além disso, tenho conhecimento profundo em ferramentas de contêineres como Docker e orquestração de contêineres em Kubernetes. Minha experiência se estende para o ecossistema de serviços da AWS (Amazon Web Services), onde trabalho com serviços como EC2, S3 e RDS para criar soluções cloud eficientes e escaláveis.
+
+Estou constantemente buscando aprender e aplicar as mais recentes inovações tecnológicas. Com uma abordagem centrada na qualidade e na eficiência, estou preparado para enfrentar desafios complexos e contribuir para o sucesso de projetos inovadores.
 
 ## Experiência Profissional
 
