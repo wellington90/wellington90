@@ -67,10 +67,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
 
 ## Idiomas
 - **Português:** Nativo
-- **Inglês:** Avançado
-
-## Interesses
-Desenvolvimento web, inovação tecnológica, inteligência artificial, open source.
+- **Inglês:** Intermediario
 
 ---
 <br>
