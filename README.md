@@ -3,7 +3,8 @@
 
 ## Informações de Contato
 - **E-mail:** siswellingtonsantos@gmail.com
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/wellington-santos-84b9ba24a/)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a/" target="_blank">Seu Perfil no LinkedIn</a>
+
 
 ## Resumo
 Sou um apaixonado desenvolvedor de software com uma sólida experiência em criar soluções eficientes e inovadoras. Especializado no desenvolvimento web, tenho um foco especial em tecnologias modernas e na aplicação de boas práticas de programação.
