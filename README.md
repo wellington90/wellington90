@@ -6,11 +6,14 @@
 - **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/wellington-santos-84b9ba24a/)
 
 ## Resumo
-Desenvolvedor de software apaixonado por criar soluções eficientes e inovadoras. Possuo experiência sólida em desenvolvimento web, com foco especializado em tecnologias modernas e aplicação de boas práticas de programação. Sou especializado em desenvolvimento utilizando Python e Django para construir aplicações robustas e escaláveis.
+Sou um apaixonado desenvolvedor de software com uma sólida experiência em criar soluções eficientes e inovadoras. Especializado no desenvolvimento web, tenho um foco especial em tecnologias modernas e na aplicação de boas práticas de programação.
 
-Além disso, tenho conhecimento profundo em ferramentas de contêineres como Docker e orquestração de contêineres em Kubernetes. Minha experiência se estende para o ecossistema de serviços da AWS (Amazon Web Services), onde trabalho com serviços como EC2, S3 e RDS para criar soluções cloud eficientes e escaláveis.
+Minha expertise se destaca no desenvolvimento utilizando Python e Django, o que me permite construir aplicações robustas e escaláveis, sempre buscando a entrega de software de alta qualidade.
 
-Estou constantemente buscando aprender e aplicar as mais recentes inovações tecnológicas. Com uma abordagem centrada na qualidade e na eficiência, estou preparado para enfrentar desafios complexos e contribuir para o sucesso de projetos inovadores.
+Além disso, possuo um profundo conhecimento em ferramentas de contêineres, como Docker, e na orquestração de contêineres em Kubernetes. Estendo minha experiência para o ecossistema de serviços da AWS (Amazon Web Services), onde utilizo serviços como EC2, S3 e RDS para criar soluções em nuvem eficientes e escaláveis.
+
+Estou constantemente atualizado com as mais recentes inovações tecnológicas, mantendo-me na vanguarda do desenvolvimento de software. Minha abordagem é centrada na qualidade e eficiência, e estou preparado para enfrentar desafios complexos, contribuindo significativamente para o sucesso de projetos inovadores. Minha busca contínua por excelência técnica reflete meu compromisso em oferecer soluções de alto desempenho e inovadoras em todas as etapas do desenvolvimento de software.
+
 
 ## Experiência Profissional
 
