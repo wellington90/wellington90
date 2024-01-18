@@ -29,7 +29,7 @@ Estou constantemente atualizado com as mais recentes inovações tecnológicas, 
 ## Educação
 
 ### Bacharel em Sistema de Informação | Faculdade UNIGUAÇU (união da vitória ,Paraná) | 
-- Destaque em Projetos de Conclusão de Curso: "Título do Projeto".
+- Destaque em Projetos de Conclusão de Curso: "A conceitualização sobre as principais vunerabilidades e as técnicas para garantir a segurança de um sistema web".
 
 ## Projetos Pessoais
 
