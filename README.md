@@ -24,7 +24,7 @@ Estou constantemente buscando aprender e aplicar as mais recentes inovações te
 
 ## Educação
 
-### Bacharel em Ciência da Computação | Universidade ABC (Cidade, Estado) | MM/AAAA - MM/AAAA
+### Bacharel em Sistema de Informação | Faculdade UNIGUAÇU (união da vitória ,Paraná) | 
 - Destaque em Projetos de Conclusão de Curso: "Título do Projeto".
 
 ## Projetos Pessoais
@@ -37,13 +37,19 @@ Breve descrição e tecnologias utilizadas.
 
 ## Habilidades Técnicas
 - **Linguagens de Programação:** JavaScript (ES6+), Python
-- **Tecnologias Front-end:** React, HTML, CSS
-- **Tecnologias Back-end:** Node.js, Express
+- **Banco de Dados:** MongoDB, MySQL
 - **Banco de Dados:** MongoDB, MySQL
 - **Controle de Versão:** Git, GitHub
+- **Serviços AWS (Amazon Web Services):**
+  - EC2: Configuração e gerenciamento de instâncias virtuais
+  - S3: Armazenamento e recuperação de dados em nuvem
+  - RDS: Configuração de bancos de dados relacionais na nuvem
+  - Lambda: Implementação de funções serverless
+  - API Gateway: Criação e gerenciamento de APIs escaláveis
+  - Docker: Implementação e orquestração de contêineres
+  - Kubernetes: Orquestração de contêineres em escala
+  - E outros serviços conforme necessário para requisitos específicos do projeto
 
-## Certificações
-- Certificado em Desenvolvimento Web Full Stack (Nome da Instituição) | MM/AAAA
 
 ## Idiomas
 - **Português:** Nativo
@@ -53,11 +59,6 @@ Breve descrição e tecnologias utilizadas.
 Desenvolvimento web, inovação tecnológica, inteligência artificial, open source.
 
 ---
-
-**Observação:** Lembre-se de substituir "Seu Nome", "seu.email@example.com", etc., com suas informações reais. Personalize cada seção conforme necessário para destacar suas habilidades e experiências.
-
-
-<br>
 <br>
 
 <div  align="center" style="margin-bottom:100px">
