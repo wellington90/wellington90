@@ -53,6 +53,24 @@ Breve descrição: Este script faz o upload de arquivos de um diretório local p
   - Kubernetes: Orquestração de contêineres em escala
   - E outros serviços conforme necessário para requisitos específicos do projeto
 
+## Certificações
+
+- **AWS Cloud Practitioner**
+  - [Certificado](https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051)
+
+- **AWS Cloud Quest: Solutions Architect**
+  - [Certificado](https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713)
+
+- **AWS Cloud Quest: Serverless Developer**
+  - [Certificado](https://www.credly.com/badges/59f7fe3f-c4b9-4e0c-9c9a-f0ecf168baf0)
+
+- **AWS Cloud Quest: Networking**
+  - [Certificado](https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac)
+
+Estas certificações atestam minha competência em diversas áreas do ecossistema AWS, incluindo fundamentos em nuvem, arquitetura de soluções, desenvolvimento serverless e networking. Estou comprometido em manter-me atualizado com as melhores práticas da AWS para oferecer soluções de nuvem eficientes e escaláveis.
+
+
+
 
 ## Idiomas
 - **Português:** Nativo
