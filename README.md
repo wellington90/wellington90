@@ -39,8 +39,7 @@ Descrição A biblioteca "dockr-mysql" com integração Django facilita a gestã
 Breve descrição: Este script faz o upload de arquivos de um diretório local para um bucket do Amazon S3. Ele compara o tamanho e a data de modificação de cada arquivo local com o arquivo correspondente no bucket do S3. Se o arquivo local for mais novo ou tiver um tamanho diferente, ele faz o upload do arquivo para o S3. Caso contrário, ele pula o arquivo.
 
 ## Habilidades Técnicas
-- **Linguagens de Programação:** JavaScript (ES6+), Python
-- **Banco de Dados:** MongoDB, MySQL
+- **Linguagens de Programação:** Python, Javascript
 - **Banco de Dados:** MongoDB, MySQL
 - **Controle de Versão:** Git, GitHub
 - **Serviços AWS (Amazon Web Services):**
