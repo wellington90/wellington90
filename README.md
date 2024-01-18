@@ -55,7 +55,7 @@ Breve descrição: Este script faz o upload de arquivos de um diretório local p
 
 ## Certificações
 
-- **AWS Cloud Practitioner** - [Certificado](https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051)
+- **AWS Cloud Quest: Practitioner** - [Certificado](https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051)
 
 - **AWS Cloud Quest: Solutions Architect** - [Certificado](https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713)
 
