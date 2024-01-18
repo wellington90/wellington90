@@ -35,8 +35,8 @@ Estou constantemente atualizado com as mais recentes inovações tecnológicas, 
 ### [Nome do Projeto](https://github.com/seuusername/nome-do-projeto)
 Descrição curta do projeto e principais tecnologias utilizadas.
 
-### [Outro Projeto](https://github.com/seuusername/outro-projeto)
-Breve descrição e tecnologias utilizadas.
+### [Outro Projeto](https://github.com/wellington90/backup-s3/blob/main/backup-s3.py)
+Breve descrição: Este script faz o upload de arquivos de um diretório local para um bucket do Amazon S3. Ele compara o tamanho e a data de modificação de cada arquivo local com o arquivo correspondente no bucket do S3. Se o arquivo local for mais novo ou tiver um tamanho diferente, ele faz o upload do arquivo para o S3. Caso contrário, ele pula o arquivo.
 
 ## Habilidades Técnicas
 - **Linguagens de Programação:** JavaScript (ES6+), Python
