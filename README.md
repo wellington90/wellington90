@@ -32,7 +32,7 @@ Estou constantemente atualizado com as mais recentes inovações tecnológicas, 
 
 ## Projetos Pessoais
 
-### [DockMySQL Toolkit:](https://github.com/wellington90/biblioteca-dockr-mysql)
+### [Django on Dock MySQL Lib:](https://github.com/wellington90/biblioteca-dockr-mysql)
 Descrição A biblioteca "dockr-mysql" com integração Django facilita a gestão e a implementação de ambientes MySQL em contêineres Docker, proporcionando uma solução eficiente para o desenvolvimento e teste de aplicações Django. Simplifica a configuração e a manipulação de instâncias MySQL em ambientes Docker, promovendo uma experiência de desenvolvimento mais ágil e flexível..
 
 ### [BackupS3:](https://github.com/wellington90/backup-s3/blob/main/backup-s3.py)
