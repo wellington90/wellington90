@@ -17,7 +17,7 @@ Estou constantemente atualizado com as mais recentes inovações tecnológicas, 
 
 ## Projetos Pessoais
 
-### [Biblioteca Django on Dock MySQL:](https://github.com/wellington90/biblioteca-dockr-mysql)
+### [Biblioteca Django on Dock MySQL:](https://github.com/wellington90/BIBLIOTECA)
 Descrição A biblioteca com integração Django facilita a gestão e a implementação de ambientes MySQL em contêineres Docker, proporcionando uma solução eficiente para o desenvolvimento e teste de aplicações Django. Simplifica a configuração e a manipulação de instâncias MySQL em ambientes Docker, promovendo uma experiência de desenvolvimento mais ágil e flexível..
 
 ### [BackupS3:](https://github.com/wellington90/backup-s3)
