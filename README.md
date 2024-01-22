@@ -2,18 +2,12 @@
 # Wellington santos
 
 ## Informações de Contato
-- **E-mail:** siswellingtonsantos@gmail.com
+- **E-mail:** w3ll1n9t0n54nt05@gmail.com
 - **LinkedIn:** <a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a/" target="_blank">Seu Perfil no LinkedIn</a>
 
 
 ## Resumo
-Sou um apaixonado desenvolvedor de software com uma sólida experiência em criar soluções eficientes e inovadoras. Especializado no desenvolvimento web, tenho um foco especial em tecnologias modernas e na aplicação de boas práticas de programação.
-
-Minha expertise se destaca no desenvolvimento utilizando Python e Django, o que me permite construir aplicações robustas e escaláveis, sempre buscando a entrega de software de alta qualidade.
-
-Além disso, possuo um profundo conhecimento em ferramentas de contêineres, como Docker, e na orquestração de contêineres em Kubernetes. Estendo minha experiência para o ecossistema de serviços da AWS (Amazon Web Services), onde utilizo serviços como EC2, S3 e RDS para criar soluções em nuvem eficientes e escaláveis.
-
-Estou constantemente atualizado com as mais recentes inovações tecnológicas, mantendo-me na vanguarda do desenvolvimento de software. Minha abordagem é centrada na qualidade e eficiência, e estou preparado para enfrentar desafios complexos, contribuindo significativamente para o sucesso de projetos inovadores. Minha busca contínua por excelência técnica reflete meu compromisso em oferecer soluções de alto desempenho e inovadoras em todas as etapas do desenvolvimento de software.
+Desenvolvedor especializado em Python e Django, com expertise em tecnologias modernas e práticas de programação. Focado em construir aplicações web robustas e escaláveis. Proficiente em contêineres (Docker), orquestração em Kubernetes e serviços AWS (EC2, S3, RDS) para soluções eficientes e escaláveis na nuvem. Comprometido com a excelência técnica e contribuição para o sucesso de projetos inovadores.
 
 ## Projetos Pessoais
 
