@@ -68,14 +68,8 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
  <div  align="center"> 
 <div style="display: flex; justify-content: center;">
   <div>
-  <details>
-  <summary>Clique para mostrar as ferramentas e tecnologias</summary>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python logo" height="60" width="60">
-  <!-- Python -->
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django logo" height="60" width="60">
-  <!-- Django -->
+   <!--  <details>-->
+   <!--  <summary>Clique para mostrar as ferramentas e tecnologias</summary>-->
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python logo" height="60" width="60">
@@ -90,7 +84,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="60">
 
-</details>
+  <!-- </details>-->
 
 </div>
 
