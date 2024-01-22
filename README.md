@@ -18,6 +18,9 @@ Descrição A biblioteca com integração Django facilita a gestão e a implemen
 ### [BackupS3:](https://github.com/wellington90/backup-s3)
 Breve descrição: Este script faz o upload de arquivos de um diretório local para um bucket do Amazon S3. Ele compara o tamanho e a data de modificação de cada arquivo local com o arquivo correspondente no bucket do S3. Se o arquivo local for mais novo ou tiver um tamanho diferente, ele faz o upload do arquivo para o S3. Caso contrário, ele pula o arquivo.
 
+### [Certificados Generator:](https://github.com/wellington90/certificados-generator)
+O Certificados Generator é uma ferramenta em Python que automatiza a geração de certificados a partir de dados contidos em uma planilha Excel. Este script facilita o processo de criação em massa de certificados para participantes de eventos, workshops ou cursos. Utilizando um modelo de certificado, o script preenche automaticamente as informações relevantes, economizando tempo e esforço na criação manual.
+
 ## Habilidades Técnicas
 - **Linguagens de Programação:** Python, Flask
 - **Banco de Dados:** Postgresql, MySQL
