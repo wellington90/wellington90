@@ -72,8 +72,10 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
   <summary>Clique para mostrar as ferramentas e tecnologias</summary>
 
   |+|
-  ![Python logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)
-  ![Django logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg)
+  ![Python logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg) <!-- height="60" width="60" -->
+
+  ![Django logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg) <!-- height="60" width="60" -->
+
 
 </details>
 
