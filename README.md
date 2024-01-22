@@ -76,21 +76,15 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Docker logo" height="60" width="60">
 
-<img src="https://icons8.com/icon/e6uRfPIDgoXi/amazon-aws" alt="Docker logo" height="60" width="60">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Docker logo" height="60" width="60">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="Docker logo" height="60" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="Docker logo" height="60" width="60">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Docker logo" height="60" width="60">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Docker logo" height="60" width="60">
 
-# Seu Projeto
-
-Descrição do seu projeto.
-
-<img src="https://raw.githubusercontent.com/wellington90/main/icons8-amazon-web-services-48.png" alt="Ícone do Repositório" height="60" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" width="60">
 
 
 
