@@ -86,7 +86,14 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Docker logo" height="60" width="60">
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg](https://github.com/wellington90/wellington90/blob/main/icons8-amazon-web-services-48.png)" alt="Docker logo" height="60" width="60">
+# Seu Projeto
+
+Descrição do seu projeto.
+
+<img src="https://raw.githubusercontent.com/wellington90/wellington90/tree/main/icons8-amazon-web-services-48.png" alt="Ícone do Repositório" height="60" width="60">
+
+
+
 </div>
 <br>
 <picture>
