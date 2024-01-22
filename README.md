@@ -76,7 +76,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Docker logo" height="60" width="60">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Docker logo" height="60" width="60">
+<img src="https://icons8.com/icon/e6uRfPIDgoXi/amazon-aws" alt="Docker logo" height="60" width="60">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Docker logo" height="60" width="60">
 
@@ -87,6 +87,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Docker logo" height="60" width="60">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Docker logo" height="60" width="60">
+https://icons8.com/icon/e6uRfPIDgoXi/amazon-aws
 </div>
 <br>
 <picture>
