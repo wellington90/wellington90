@@ -43,10 +43,6 @@ Breve descrição: Este script faz o upload de arquivos de um diretório local p
 
 Estas certificações atestam minha competência em diversas áreas do ecossistema AWS, incluindo fundamentos em nuvem, arquitetura de soluções, desenvolvimento serverless e networking. Estou comprometido em manter-me atualizado com as melhores práticas da AWS para oferecer soluções de nuvem eficientes e escaláveis.
 
-## Idiomas
-- **Português:** Nativo
-- **Inglês:** Intermediario
-
 ---
 <br>
 
