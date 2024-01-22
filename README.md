@@ -54,7 +54,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
  <br><br>
 
 <div  align="center"> 
- <h1 align="center">Ferramentas e Tecnologias Utilizadas. <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/devops.png" height="80" width="80"></h1>
+ <h1 align="center">Ferramentas e Tecnologias Utilizadas. <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/devops.png" height="60" width="60"></h1>
 </div>
  <div  align="center"> 
 <div style="display: flex; justify-content: center;">
