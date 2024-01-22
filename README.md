@@ -2,9 +2,10 @@
 # Wellington santos
 
 ## Informações de Contato
-- **E-mail:** w3ll1n9t0n54nt05@gmail.com
-- **LinkedIn:** <a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a/" target="_blank">Seu Perfil no LinkedIn</a>
-
+<div>
+<a href = "mailto:w3ll1n9t0n54nt05@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ## Resumo
 Desenvolvedor especializado em Python e Django, com expertise em tecnologias modernas e práticas de programação. Focado em construir aplicações web robustas e escaláveis. Proficiente em contêineres (Docker), orquestração em Kubernetes e serviços AWS (EC2, S3, RDS) para soluções eficientes e escaláveis na nuvem. Comprometido com a excelência técnica e contribuição para o sucesso de projetos inovadores.
