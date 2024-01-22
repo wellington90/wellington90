@@ -24,17 +24,17 @@ Descrição A biblioteca com integração Django facilita a gestão e a implemen
 Breve descrição: Este script faz o upload de arquivos de um diretório local para um bucket do Amazon S3. Ele compara o tamanho e a data de modificação de cada arquivo local com o arquivo correspondente no bucket do S3. Se o arquivo local for mais novo ou tiver um tamanho diferente, ele faz o upload do arquivo para o S3. Caso contrário, ele pula o arquivo.
 
 ## Habilidades Técnicas
-- **Linguagens de Programação:** Python, Javascript
-- **Banco de Dados:** MongoDB, MySQL
-- **Controle de Versão:** Git, GitHub
+- **Linguagens de Programação:** Python, Flask
+- **Banco de Dados:** Postgresql, MySQL
+- **Controle de Versão:** Git, GitHub, Gitlab
 - **Serviços AWS (Amazon Web Services):**
   - EC2: Configuração e gerenciamento de instâncias virtuais
   - S3: Armazenamento e recuperação de dados em nuvem
   - RDS: Configuração de bancos de dados relacionais na nuvem
   - Lambda: Implementação de funções serverless
   - API Gateway: Criação e gerenciamento de APIs escaláveis
-  - Docker: Implementação e orquestração de contêineres
-  - Kubernetes: Orquestração de contêineres em escala
+  - ECS: Implementação e orquestração de contêineres
+  - EKS: Orquestração de contêineres em escala
   - E outros serviços conforme necessário para requisitos específicos do projeto
 
 ## Certificações
