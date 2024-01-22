@@ -68,17 +68,51 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
 
   <div style="display: flex; justify-content: center; margin-top: 10px;">
 
-  <div style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python logo" height="60" width="60">
-    <p>Python</p>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .box {
+      text-align: center;
+      border: 2px solid #ddd;
+      padding: 10px;
+      margin: 10px;
+      cursor: pointer;
+    }
+
+    .icons {
+      display: none;
+      justify-content: center;
+      margin-top: 10px;
+    }
+
+    .icons img {
+      margin: 0 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box" onclick="toggleIcons()">
+    |+|
+    <div class="icons" id="iconsContainer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python logo" height="60" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django logo" height="60" width="60">
+    </div>
   </div>
 
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django logo" height="60" width="60">
-    <p>Django</p>
-  </div>
+  <script>
+    function toggleIcons() {
+      var iconsContainer = document.getElementById("iconsContainer");
+      iconsContainer.style.display = (iconsContainer.style.display === 'none' || iconsContainer.style.display === '') ? 'flex' : 'none';
+    }
+  </script>
 
-  </div>
+</body>
+</html>
+
 </div>
 
 
