@@ -90,7 +90,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
 
 Descrição do seu projeto.
 
-<img src="https://raw.githubusercontent.com/wellington90/wellington90/tree/main/icons8-amazon-web-services-48.png" alt="Ícone do Repositório" height="60" width="60">
+<img src="https://raw.githubusercontent.com/wellington90/main/icons8-amazon-web-services-48.png" alt="Ícone do Repositório" height="60" width="60">
 
 
 
