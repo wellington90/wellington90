@@ -67,6 +67,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
   <h2>Ferramentas e Tecnologias Utilizadas</h2>
 
   <div style="display: flex; justify-content: center; margin-top: 10px;">
+  
 
   <!DOCTYPE html>
 <html lang="en">
@@ -82,16 +83,16 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
       cursor: pointer;
     }
 
-    .icons {
-      display: none;
-      justify-content: center;
-      margin-top: 10px;
-    }
+  .icons {
+    display: none;
+    justify-content: center;
+    margin-top: 10px;
+  }
 
-    .icons img {
-      margin: 0 10px;
-    }
-  </style>
+  .icons img {
+    margin: 0 10px;
+  }
+</style>
 </head>
 <body>
 
@@ -113,7 +114,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
 </body>
 </html>
 
-</div>
+
 
 
 
