@@ -65,8 +65,8 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
 <div  align="center"> 
  <h1 align="center">Ferramentas e Tecnologias Utilizadas.</h1>
 </div>
- <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-direction: row;">
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="60" width="60">
     </div>
@@ -102,6 +102,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
     </div>
   </div>
 </div>
+
 
 <br>
 <picture>
