@@ -82,7 +82,7 @@ Estas certificações atestam minha competência em diversas áreas do ecossiste
   <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/logos/argo.png" height="60" width="60">
   <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/elastic.png" height="60" width="60">
 
-  <!-- </details>--><a href="https://github.com/TheCloudOpsCommunity"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="60px"></img></a>
+  <!-- </details>-->
 
 </div>
 
