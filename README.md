@@ -39,13 +39,13 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
  <div style="display: flex; justify-content: space-between;">
     <div style="width: 60%;">
         
-   - **AWS Cloud Quest: Practitioner** - [Certificado](https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051)
+   - **AWS Cloud Quest: Practitioner - [Certificado](https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051)
 
-   - **AWS Cloud Quest: Solutions Architect** - [Certificado](https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713)
+   - **AWS Cloud Quest: Solutions Architect - [Certificado](https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713)
 
-   - **AWS Cloud Quest: Serverless Developer** - [Certificado](https://www.credly.com/badges/59f7fe3f-c4b9-4e0c-9c9a-f0ecf168baf0)
+   - **AWS Cloud Quest: Serverless Developer - [Certificado](https://www.credly.com/badges/59f7fe3f-c4b9-4e0c-9c9a-f0ecf168baf0)
 
-   - **AWS Cloud Quest: Networking** - [Certificado](https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac)
+   - **AWS Cloud Quest: Networking - [Certificado](https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac)
    </div>
   <div style="width: 40%; border: 2px solid black; padding: 10px;">
     <img src="_237e904a-8b2d-427c-afc4-3869709ec79c.jpeg" style="width: 60px; height: 60px;">
