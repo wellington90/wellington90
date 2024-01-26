@@ -39,7 +39,9 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
  test
 :--------- | :------: | -------:
 Valor |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python logo" height="60" width="60">
+:--------- | :------: | -------:
 calor |  |
+:--------- | :------: | -------:
 casas |  |
 
 
