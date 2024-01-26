@@ -37,7 +37,13 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 
 
 
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificações e Imagem</title>
+    <style>
         .container {
             display: flex;
             justify-content: space-between;
@@ -69,6 +75,9 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
             <img src="_237e904a-8b2d-427c-afc4-3869709ec79c.jpeg" alt="Imagem de Exemplo">
         </div>
     </div>
+</body>
+</html>
+
 
 
 Estas certificações atestam minha competência em diversas áreas do ecossistema AWS, incluindo fundamentos em nuvem, arquitetura de soluções, desenvolvimento serverless e networking. Estou comprometido em manter-me atualizado com as melhores práticas da AWS para oferecer soluções de nuvem eficientes e escaláveis.
