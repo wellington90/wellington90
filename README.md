@@ -37,7 +37,14 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 
 
 
-<body> <div class="container"> <div class="certifications"> <h2>Certificações</h2> <ul> <li><strong>AWS Cloud Quest: Practitioner</strong> - <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051">Certificado</a></li> <li><strong>AWS Cloud Quest: Solutions Architect</strong> - <a href="https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713">Certificado</a></li> <li><strong>AWS Cloud Quest: Serverless Developer</strong> - <a href="https://www.credly.com/badges/59f7fe3f-c4b9-4e0c-9c9a-f0ecf168baf0">Certificado</a></li> <li><strong>AWS Cloud Quest: Networking</strong> - <a href="https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac">Certificado</a></li> </ul> </div> <div class="image"> <img src="_237e904a-8b2d-427c-afc4-3869709ec79c.jpeg" height="60" width="60"> </div> </div> </body>
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF7Bh4pMD8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF7Bh4pMD8&#x2F;view?utm_content=DAF7Bh4pMD8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a> 
 
 
 Estas certificações atestam minha competência em diversas áreas do ecossistema AWS, incluindo fundamentos em nuvem, arquitetura de soluções, desenvolvimento serverless e networking. Estou comprometido em manter-me atualizado com as melhores práticas da AWS para oferecer soluções de nuvem eficientes e escaláveis.
