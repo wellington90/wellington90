@@ -35,11 +35,10 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   - EKS: Orquestração de contêineres em escala
   - E outros serviços conforme necessário para requisitos específicos do projeto
 
-
+  ## Certificações
  <div style="display: flex; justify-content: space-between;">
     <div style="width: 60%;">
-        ## Certificações
-
+        
    - **AWS Cloud Quest: Practitioner** - [Certificado](https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051)
 
    - **AWS Cloud Quest: Solutions Architect** - [Certificado](https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713)
