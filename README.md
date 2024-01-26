@@ -46,7 +46,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
             width: 48%;
         }
         .image {
-            width: 48%;
+            width: 10%;
             text-align: right; /* Alinha a imagem à direita */
         }
         .image img {
