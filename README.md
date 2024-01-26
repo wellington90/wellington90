@@ -35,7 +35,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   - EKS: Orquestração de contêineres em escala
   - E outros serviços conforme necessário para requisitos específicos do projeto
 
-  ## Certificações
+## Certificações
  <div style="display: flex; justify-content: space-between;">
     <div style="width: 60%;">
         
