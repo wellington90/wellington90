@@ -40,7 +40,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
     <table style="border-collapse: collapse;">
         <tr>
             <td style="padding: 10px; text-align: center; vertical-align: top;">
-                <h1><center>Certificações</center></h1>
+                <h1 style="text-align: center;">Certificações</h1>
                 <ul>
                     <li><strong>AWS Cloud Quest: Practitioner</strong> - <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051">Certificado</a></li>
                     <li><strong>AWS Cloud Quest: Solutions Architect</strong> - <a href="https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713">Certificado</a></li>
