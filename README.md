@@ -38,8 +38,8 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 
  <style>
         table {
-            width: 100%;
             border-collapse: collapse;
+            width: 100%;
         }
         th, td {
             border: 1px solid black;
@@ -50,28 +50,26 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 </head>
 <body>
 
+<h2>Certifications</h2>
+
 <table>
     <tr>
-        <td>
-            <strong>AWS Cloud Quest: Practitioner</strong> - <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051">Certificado</a>
+        <td style="width: 60%;">
+            <h3>Certificações</h3>
+            <ul>
+                <li><strong>AWS Cloud Quest: Practitioner</strong> - <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051">Certificado</a></li>
+                <li><strong>AWS Cloud Quest: Solutions Architect</strong> - <a href="https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713">Certificado</a></li>
+                <li><strong>AWS Cloud Quest: Serverless Developer</strong> - <a href="https://www.credly.com/badges/59f7fe3f-c4b9-4e0c-9c9a-f0ecf168baf0">Certificado</a></li>
+                <li><strong>AWS Cloud Quest: Networking</strong> - <a href="https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac">Certificado</a></li>
+            </ul>
         </td>
-        </tr>
-    <tr>
-        <td>
-            <strong>AWS Cloud Quest: Solutions Architect</strong> - <a href="https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713">Certificado</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <strong>AWS Cloud Quest: Serverless Developer</strong> - <a href="https://www.credly.com/badges/59f7fe3f-c4b9-4e0c-9c9a-f0ecf168baf0">Certificado</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <strong>AWS Cloud Quest: Networking</strong> - <a href="https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac">Certificado</a>
+        <td style="width: 40%; text-align: center;">
+            <h3>Imagem</h3>
+            <img src="_9f428184-089a-40d1-a4fd-92d3dd08223e.jpeg" alt="Imagem" style="width: 100px; height: 100px;">
         </td>
     </tr>
 </table>
+
 
 Estas certificações atestam minha competência em diversas áreas do ecossistema AWS, incluindo fundamentos em nuvem, arquitetura de soluções, desenvolvimento serverless e networking. Estou comprometido em manter-me atualizado com as melhores práticas da AWS para oferecer soluções de nuvem eficientes e escaláveis.
 
