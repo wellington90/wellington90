@@ -1,14 +1,11 @@
 
-# Wellington santos
+# Olá, Sou Wellington santos! 
 
-## Informações de Contato
+  Buscar oportunidades desafiadoras como desenvolvedor especializado em Python e Django, onde posso aplicar minha experiência em tecnologias modernas e práticas de programação. Tenho o objetivo de contribuir para a construção de aplicações web robustas e escaláveis, utilizando meu conhecimento em contêineres (Docker), orquestração em Kubernetes e serviços AWS (EC2, S3, RDS). Estou comprometido com a excelência técnica e ansioso para participar do sucesso de projetos inovadores, proporcionando soluções eficientes e escaláveis na nuvem.
 <div>
 <a href = "mailto:w3ll1n9t0n54nt05@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-## Objetivo
-Buscar oportunidades desafiadoras como desenvolvedor especializado em Python e Django, onde posso aplicar minha experiência em tecnologias modernas e práticas de programação. Tenho o objetivo de contribuir para a construção de aplicações web robustas e escaláveis, utilizando meu conhecimento em contêineres (Docker), orquestração em Kubernetes e serviços AWS (EC2, S3, RDS). Estou comprometido com a excelência técnica e ansioso para participar do sucesso de projetos inovadores, proporcionando soluções eficientes e escaláveis na nuvem.
 
 ## Projetos Pessoais
 
