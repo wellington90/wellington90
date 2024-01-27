@@ -1,5 +1,5 @@
 
-## Olá, Sou o Wellington santos! 
+## Olá, Sou o Wellington santos ! 
 
  Em busca de desafios, trilho meu caminho como desenvolvedor especializado em Python e Django. Com tecnologias modernas e práticas de programação, almejo aplicar minha experiência em ambientes dinâmicos. Minha meta é catalisar a construção de aplicações web robustas e escaláveis, onde a maestria em contêineres (Docker), orquestração em Kubernetes e serviços AWS (EC2, S3, RDS) seja protagonista. Dedicação à excelência técnica e um entusiasmo genuíno para integrar projetos inovadores definem minha trajetória, impulsionando soluções eficientes e dimensionáveis na nuvem.
 <div>
