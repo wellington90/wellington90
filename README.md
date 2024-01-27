@@ -36,7 +36,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   - E outros serviços conforme necessário para requisitos específicos do projeto
 
 
-
+<br>
 <h1 align="left">Certificações</h1> <img align="right" height="250em" src="_6d97faaf-2f3a-4776-b1e6-79c9beb09500.jpeg"/> 
  
  <br>
