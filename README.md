@@ -37,9 +37,9 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 
 
 
-<table>
+<table style="border-collapse: collapse;">
     <tr>
-        <td>
+        <td style="padding: 10px; vertical-align: top;">
             <h1>Certificações</h1>
             <ul>
                 <li><strong>AWS Cloud Quest: Practitioner</strong> - <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051">Certificado</a></li>
@@ -48,11 +48,12 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
                 <li><strong>AWS Cloud Quest: Networking</strong> - <a href="https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac">Certificado</a></li>
             </ul>
         </td>
-        <td style="width: 100%; text-align: center;">
-    <img src="_9f428184-089a-40d1-a4fd-92d3dd08223e.jpeg" alt="Imagem" style="width: 200px; height: 200px;">  
+        <td style="padding: 10px; text-align: center; vertical-align: middle;">
+            <img src="_9f428184-089a-40d1-a4fd-92d3dd08223e.jpeg" alt="Imagem" style="width: 200px; height: 200px; border: none;">  
         </td>
      </tr>
 </table>
+
 
 
 Estas certificações atestam minha competência em diversas áreas do ecossistema AWS, incluindo fundamentos em nuvem, arquitetura de soluções, desenvolvimento serverless e networking. Estou comprometido em manter-me atualizado com as melhores práticas da AWS para oferecer soluções de nuvem eficientes e escaláveis.
