@@ -48,7 +48,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
                  
                
 
-<br>
+<br><br>
 <div  align="center"> 
  <h1 align="center">Ferramentas e Tecnologias Utilizadas.</h1><img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/devops.png" height="80" width="80">
 </div>
