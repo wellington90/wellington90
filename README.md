@@ -51,7 +51,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
                   </p>
 
 ---
-<br>
+<br><br><br>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wellington90&theme=radical&mode=weekly" />
