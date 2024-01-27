@@ -36,10 +36,10 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   - E outros serviços conforme necessário para requisitos específicos do projeto
 
 
-<table style="border-collapse: collapse; width: 50%;">
+<table style="border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; vertical-align: top;">
-            <h2>Certificações</h2>
+            <h1>Certificações</h1>
             <ul>
                 <li><strong>AWS Cloud Quest: Practitioner</strong> - <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051">Certificado</a></li>
                 <li><strong>AWS Cloud Quest: Solutions Architect</strong> - <a href="https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713">Certificado</a></li>
@@ -47,11 +47,12 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
                 <li><strong>AWS Cloud Quest: Networking</strong> - <a href="https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac">Certificado</a></li>
             </ul>
         </td>
-        <td style="padding: 10px; text-align: right; vertical-align: middle;">
-            <img src="_9f428184-089a-40d1-a4fd-92d3dd08223e.jpeg" alt="Imagem" style="max-width: 250px; max-height: 250px; border: none;">  
+        <td style="padding: 10px; text-align: center; vertical-align: middle;">
+            <img src="_9f428184-089a-40d1-a4fd-92d3dd08223e.jpeg" alt="Imagem" style="width: 260px; height: 260px; border: none;">  
         </td>
      </tr>
 </table>
+
 
 
 
