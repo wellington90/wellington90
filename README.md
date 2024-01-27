@@ -49,13 +49,6 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
                  
 ---
 <br>
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wellington90&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=wellington90&show_icons=true&theme=radical&layout=compact" />
- </div>
- <br><br>
-
 <div  align="center"> 
  <h1 align="center">Ferramentas e Tecnologias Utilizadas.</h1><img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/devops.png" height="80" width="80">
 </div>
@@ -86,6 +79,14 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   <!-- </details>-->
 
 </div>
+<br>
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wellington90&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=wellington90&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ <br><br>
+
 
 <br>
 <picture>
