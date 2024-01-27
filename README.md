@@ -36,24 +36,9 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   - E outros serviços conforme necessário para requisitos específicos do projeto
 
 
-<div style="display: flex; justify-content: center;">
-    <table style="border-collapse: collapse;">
-        <tr>
-            <td style="padding: 10px; text-align: center; vertical-align: top;">
-                <h1>Certificações</h1>
-                <ul>
-                    <li><strong>AWS Cloud Quest: Practitioner</strong> - <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051">Certificado</a></li>
-                    <li><strong>AWS Cloud Quest: Solutions Architect</strong> - <a href="https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713">Certificado</a></li>
-                    <li><strong>AWS Cloud Quest: Serverless Developer</strong> - <a href="https://www.credly.com/badges/59f7fe3f-c4b9-4e0c-9c9a-f0ecf168baf0">Certificado</a></li>
-                    <li><strong>AWS Cloud Quest: Networking</strong> - <a href="https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac">Certificado</a></li>
-                </ul>
-            </td>
-            <td style="padding: 10px; text-align: center; vertical-align: middle;">
-                <img src="_6d97faaf-2f3a-4776-b1e6-79c9beb09500.jpeg" alt="Imagem" style="width: 270px; height: 270px; border: none;">  
-            </td>
-        </tr>
-    </table>
-</div>
+<img align="right" height="590em" src="_6d97faaf-2f3a-4776-b1e6-79c9beb09500.jpeg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
+<p align="left"># <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 
 
