@@ -49,7 +49,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
                 </ul>
             </td>
             <td style="padding: 10px; text-align: center; vertical-align: middle;">
-                <img src="_9f428184-089a-40d1-a4fd-92d3dd08223e.jpeg" alt="Imagem" style="width: 270px; height: 270px; border: none;">  
+                <img src="_6d97faaf-2f3a-4776-b1e6-79c9beb09500.jpeg" alt="Imagem" style="width: 270px; height: 270px; border: none;">  
             </td>
         </tr>
     </table>
