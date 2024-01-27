@@ -5,7 +5,6 @@
 <div>
 <a href = "mailto:w3ll1n9t0n54nt05@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <p align="left"># <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 </div>
 
 ## Objetivo
@@ -52,7 +51,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
                  
                  
 ---
-<br><br>
+<br>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wellington90&theme=radical&mode=weekly" />
