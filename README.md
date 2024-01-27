@@ -5,6 +5,7 @@
 <div>
 <a href = "mailto:w3ll1n9t0n54nt05@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <p align="left"># <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 </div>
 
 ## Objetivo
@@ -36,7 +37,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   - E outros serviços conforme necessário para requisitos específicos do projeto
 
 
-<img align="right" height="500em" src="_6d97faaf-2f3a-4776-b1e6-79c9beb09500.jpeg"/>
+<img align="right" height="300em" src="_6d97faaf-2f3a-4776-b1e6-79c9beb09500.jpeg"/>
 <h1 align="left">Certificações</h1>
                 <ul>
                     <li><strong>AWS Cloud Quest: Practitioner</strong> - <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051">Certificado</a></li>
@@ -45,7 +46,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
                     <li><strong>AWS Cloud Quest: Networking</strong> - <a href="https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac">Certificado</a></li>
                 </ul>
 
-<p align="left"># <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+
 
 
 
