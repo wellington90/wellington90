@@ -80,7 +80,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 
 </div>
 
-<br>
+
 <br>
 <hr>
 
