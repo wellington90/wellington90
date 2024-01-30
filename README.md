@@ -81,11 +81,16 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 </div>
 
 <br>
-<h1 align="center"></h1>
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wellington90&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=wellington90&show_icons=true&theme=radical&layout=compact" />
- </div>
+<hr>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wellington90&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wellington90&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wellington90&theme=nord_dark) |
+| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wellington90&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=wellington90&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+<hr>
+
  <br><br>
 
 
@@ -95,14 +100,6 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-<hr>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=welington90&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=welington90&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=welington90&theme=nord_dark) |
-| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=welington90&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=welington90&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <hr>
 
