@@ -81,6 +81,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 </div>
 
 <br>
+<br>
 <hr>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wellington90&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wellington90&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wellington90&theme=nord_dark) |
@@ -91,7 +92,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 
 <hr>
 
- <br><br>
+ <br>
 
 
 <br>
