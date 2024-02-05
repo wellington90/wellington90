@@ -34,7 +34,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
 
 
 <br>
-<h1 align="left">Certificações</h1> <img style="width: 250px" align="right" src="_6d97faaf-2f3a-4776-b1e6-79c9beb09500.jpeg" /> 
+<h1 align="left">Certificações</h1> <img style="width: 250px" align="right" src="rocket-aws.jpeg" /> 
  
 <br><br>
                 <ul>
@@ -66,7 +66,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python logo" height="60" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django logo" height="60" width="60">
-  <img src="icons8-amazon-web-services-48.png" height="60" width="60">
+  <img src="aws.png" height="60" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker logo" height="60" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes logo" height="60" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins logo" height="60" width="60">
