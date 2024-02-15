@@ -8,6 +8,9 @@
 </div>
 
 ## Projetos Pessoais
+### [Hospedagem de site estático](https://github.com/wellington90/Aws-bucket-host)
+Hospedagem de site estático
+O projeto de hospedagem de site estático na AWS envolve a utilização dos serviços oferecidos pela Amazon Web Services (AWS) para hospedar um site estático de forma eficiente e escalável. Um site estático é composto por arquivos HTML, CSS, JavaScript, imagens e outros recursos que não requerem processamento do lado do servidor.
 
 ### [PROJETO PRÁTICO BOOTCAMP CLOUD AWS:](https://github.com/wellington90/PROJETO-PRATICO-BOOTCAMP-CLOUD-AWS)
 Criação de uma infraestrutura em nuvem AWS para a publicação de funções CRUD com CloudFormation, Lambda, DynamoDB e API Gateway utilizando o Serverless Framework.
