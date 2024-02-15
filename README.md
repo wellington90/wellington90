@@ -49,6 +49,21 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
     <a href="https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac/public_url" target="_blank">
         <img style="width: 150px;" src="aws-cloud-quest-networking.png" alt="AWS Networking Badge"/>
     </a>
+
+<br><br><br><br>
+  </a>
+    <a href="https://www.credly.com/badges/f1d5e058-0a24-489e-b762-97aedfe4d81f/public_url" target="_blank">
+        <img style="width: 120px;" src="aws-knowledge-block-storage.png" alt="AWS Networking Badge"/>
+    </a>
+   <a href="https://www.credly.com/badges/262122a0-156b-475a-83f2-85f7bc93a6ce/public_url" target="_blank">
+      <img style="width: 120px;" src="aws-knowledge-file-storage.png" alt="AWS Networking Badge"/>
+   </a>
+   <a href="https://www.credly.com/badges/48da72f3-ef41-4792-96b6-ae4deb1ae63a/public_url" target="_blank">
+      <img style="width: 120px;" src="aws-knowledge-object-storage.png" alt="AWS Networking Badge"/>
+   </a>
+   <a href="https://www.credly.com/badges/50555785-2b4c-4481-b713-e282297de0bf/public_url" target="_blank">
+      <img style="width: 140px;" src="aws-knowledge-storage-core.png" alt="AWS Networking Badge"/>
+   </a>
 </div>
 
 
