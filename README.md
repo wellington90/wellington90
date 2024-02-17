@@ -114,7 +114,7 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/prometheus.png" height="60" width="60">
   <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/logos/grafana.png" height="60" width="60">
   <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/logos/argo.png" height="60" width="60">
-  <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/elastic.png" height="60" width="60">
+  <img src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" height="60" width="60">
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="60" width="60">
 
   <!-- </details>-->
