@@ -1,5 +1,5 @@
 
-## Olá, Sou o Wellington santos ! 
+## Olá 👋, Sou o Wellington santos ! 
 
  Em busca de desafios, trilho meu caminho como desenvolvedor especializado em Python e Django. Com tecnologias modernas e práticas de programação, almejo aplicar minha experiência em ambientes dinâmicos. Minha meta é catalisar a construção de aplicações web robustas e escaláveis, onde a maestria em contêineres (Docker), orquestração em Kubernetes e serviços AWS (EC2, S3, RDS) seja protagonista. Dedicação à excelência técnica e um entusiasmo genuíno para integrar projetos inovadores definem minha trajetória, impulsionando soluções eficientes e dimensionáveis na nuvem.
 <div>
@@ -110,10 +110,12 @@ O Certificados Generator é uma ferramenta em Python que automatiza a geração 
   <img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="60" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="60">
+  <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width="60">
   <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/prometheus.png" height="60" width="60">
   <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/logos/grafana.png" height="60" width="60">
   <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/logos/argo.png" height="60" width="60">
   <img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/elastic.png" height="60" width="60">
+  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="60" width="60">
 
   <!-- </details>-->
 
