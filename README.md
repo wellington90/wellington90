@@ -61,7 +61,9 @@
    <a href="https://www.credly.com/badges/98c45427-c0e7-4345-87fb-cc257aed4059/public_url" target="_blank">
       <img style="width: 120px;" src="aws-knowledge-data-protection-disaster-recovery.png" alt="AWS Networking Badge"/>
    </a>
-  
+  <a href="https://www.credly.com/badges/7d8e2b13-bd1d-492b-b6af-45faf0f6653a/public_url target="_blank">
+      <img style="width: 120px;" src="aws-knowledge-data-migration.png" alt="AWS Networking Badge"/>
+   </a>
    
 </div>
 
