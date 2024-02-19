@@ -25,7 +25,7 @@
 <br>
 <h1 style="text-align: left;">Certificações</h1> 
 
-<div style="text-align: center;">
+<div align="center">
    <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051/public_url" target="_blank">
      <img style="width: 140px;" src="aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Practitioner Badge"/>
    </a>
@@ -40,7 +40,6 @@
     </a>
 
 <br><br><br><br>
-  </a>
     <a href="https://www.credly.com/badges/f1d5e058-0a24-489e-b762-97aedfe4d81f/public_url" target="_blank">
         <img style="width: 120px;" src="aws-knowledge-block-storage.png" alt="AWS Networking Badge"/>
     </a>
@@ -64,15 +63,10 @@
   <a href="https://www.credly.com/badges/7d8e2b13-bd1d-492b-b6af-45faf0f6653a/public_url target="_blank">
       <img style="width: 120px;" src="aws-knowledge-data-migration.png" alt="AWS Networking Badge"/>
    </a>
-   
+
+
+  
 </div>
-
-
-
-<br>
-      
-  </ul>
-                 
                
 
 <br><br>
