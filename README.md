@@ -64,7 +64,7 @@
       <img style="width: 120px;" src="aws-knowledge-data-migration.png" alt="AWS Networking Badge"/>
    </a>
   <a href="https://www.credly.com/badges/5a34a253-6b13-408c-a08d-796b53fb39d7/public_url" target="_blank">
-      <img style="width: 140px;" src="aws-knowledge-storage-technologist.png" alt="AWS Networking Badge"/>
+      <img style="width: 150px;" src="aws-knowledge-storage-technologist.png" alt="AWS Networking Badge"/>
    </a>
 
   
