@@ -8,7 +8,7 @@ Especializado em Python e Django. Com tecnologias modernas e práticas de progra
 </div>
 
 ## Habilidades Técnicas
-- **Linguagens de Programação:** Python, Flask
+- **Linguagens de Programação:** Python, Flask, Django 
 - **Banco de Dados:** Postgresql, MySQL
 - **Controle de Versão:** Git, GitHub, Gitlab
 - **Serviços AWS (Amazon Web Services):**
