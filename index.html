@@ -1,12 +1,113 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Olá, Mundo!</title>
+    <title>Perfil de Wellington Santos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            color: #666;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .skills img {
+            margin: 5px;
+        }
+
+        .certifications img {
+            margin: 5px;
+            width: 140px;
+        }
+    </style>
 </head>
+
 <body>
-    <h1>Olá, Mundo!</h1>
-    <p>Este é um exemplo básico de uma página HTML.</p>
+    <div class="container">
+        <header>
+            <h1>Olá 👋, Sou o Wellington Santos!</h1>
+            <h2>Especializado em Python e Django.</h2>
+            <p>Com tecnologias modernas e práticas de programação, almejo aplicar minha experiência em ambientes dinâmicos. Minha meta é a construção de aplicações web robustas e escaláveis, utilizando contêineres (Docker), orquestração em Kubernetes e serviços AWS (EC2, S3, RDS).</p>
+            <div>
+                <a href="mailto:w3ll1n9t0n54nt05@gmail.com">
+                    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+                </a>
+                <a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a" target="_blank">
+                    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+                </a>
+            </div>
+        </header>
+
+        <section id="skills">
+            <h2>Habilidades Técnicas</h2>
+            <ul>
+                <li>Linguagens de Programação: Python, Flask, Django</li>
+                <li>Banco de Dados: Postgresql, MySQL</li>
+                <li>Controle de Versão: Git, GitHub, Gitlab</li>
+                <li>Serviços AWS (Amazon Web Services):
+                    <ul>
+                        <li>EC2: Configuração e gerenciamento de instâncias virtuais</li>
+                        <li>S3: Armazenamento e recuperação de dados em nuvem</li>
+                        <li>RDS: Configuração de bancos de dados relacionais na nuvem</li>
+                        <li>Lambda: Implementação de funções serverless</li>
+                        <li>API Gateway: Criação e gerenciamento de APIs escaláveis</li>
+                        <li>ECS: Implementação e orquestração de contêineres</li>
+                        <li>EKS: Orquestração de contêineres em escala</li>
+                        <li>E outros serviços conforme necessário para requisitos específicos do projeto</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section id="certifications">
+            <h2>Certificações</h2>
+            <div class="certifications">
+                <a href="https://www.credly.com/badges/c9d223b9-f23d-4625-b978-a4ae09fb3051/public_url" target="_blank">
+                    <img src="aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Practitioner Badge">
+                </a>
+                <a href="https://www.credly.com/badges/567c7fcd-01dd-4d2b-8edf-25f650ad4713/public_url" target="_blank">
+                    <img src="aws-cloud-quest-solutions-architect.png" alt="AWS Solutions Architect Badge">
+                </a>
+                <a href="https://www.credly.com/badges/59f7fe3f-c4b9-4e0c-9c9a-f0ecf168baf0/public_url" target="_blank">
+                    <img src="aws-cloud-quest-serverless-developer.png" alt="AWS Serverless Developer Badge">
+                </a>
+                <a href="https://www.credly.com/badges/1db38c61-8129-41ff-9567-c2d5ea7508ac/public_url" target="_blank">
+                    <img src="aws-cloud-quest-networking.png" alt="AWS Networking Badge">
+                </a>
+                <!-- Adicione mais certificações aqui -->
+            </div>
+        </section>
+
+        <section id="tools">
+            <h2>Ferramentas e Tecnologias Utilizadas</h2>
+            <div class="skills">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python logo" height="60" width="60">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django logo" height="60" width="60">
+                <!-- Adicione mais ferramentas e tecnologias aqui -->
+            </div>
+        </section>
+    </div>
 </body>
+
 </html>
