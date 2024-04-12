@@ -1,16 +1,17 @@
 
 ## Olá 👋, Sou o Wellington santos ! 
 
-Especializado em Python e Django. Com tecnologias modernas e práticas de programação, almejo aplicar minha experiência em ambientes dinâmicos. Minha meta é construção de aplicações web robustas e escaláveis, onde em contêineres (Docker), orquestração em Kubernetes e serviços AWS (EC2, S3, RDS)
+Engenheiro de software, Cloud Architecture e um pé no DevOps gosto de resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais, por isso ganhei experiência, coordenando projetos, analisando e melhorando continuamente softwares, integrando tudo isso aos fundamentos do desenvolvimento ágil.
 <div>
 <a href = "mailto:w3ll1n9t0n54nt05@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ## Habilidades Técnicas
-- **Linguagens de Programação:** Python, Flask, Django 
-- **Banco de Dados:** Postgresql, MySQL
-- **Controle de Versão:** Git, GitHub, Gitlab
+- **Linguagens de Programação:** Python
+- **Frameworks:** Django, FastAPI 
+- **Banco de Dados:** Postgresql, MySQL, SQLite
+- **Controle de Versão:** Git, GitHub e o GitLab 
 - **Serviços AWS (Amazon Web Services):**
   - EC2: Configuração e gerenciamento de instâncias virtuais
   - S3: Armazenamento e recuperação de dados em nuvem
