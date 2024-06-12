@@ -25,7 +25,7 @@ Engenheiro de software, Cloud Architecture e um pé no DevOps gosto de resolver 
 
 
                      
-
+<!--  <details>
 <br><br>
 <div  align="center"> 
  <h1 align="center">Ferramentas e Tecnologias Utilizadas.</h1><img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/devops.png" height="80" width="80">
@@ -33,8 +33,8 @@ Engenheiro de software, Cloud Architecture e um pé no DevOps gosto de resolver 
  <div  align="center"> 
 <div style="display: flex; justify-content: center;">
   <div>
-   <!--  <details>-->
-   <!--  <summary>Clique para mostrar as ferramentas e tecnologias</summary>-->
+   
+   
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python logo" height="60" width="60">
@@ -55,7 +55,7 @@ Engenheiro de software, Cloud Architecture e um pé no DevOps gosto de resolver 
   <img src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" height="60" width="60">
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="60" width="60">
 
-  <!-- </details>-->
+      </details>-->
 
 </div>
 
