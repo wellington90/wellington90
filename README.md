@@ -1,12 +1,12 @@
 
 ## Olá 👋, Sou o Wellington santos ! 
 
-Engenheiro de software, Cloud Architecture e um pé no DevOps gosto de resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais, por isso ganhei experiência, coordenando projetos, analisando e melhorando continuamente softwares, integrando tudo isso aos fundamentos do desenvolvimento ágil.
+Analista de Sistemas, Cloud Architecture AWS e um pé no DevOps gosto de resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais, por isso ganhei experiência, coordenando projetos, analisando e melhorando continuamente softwares, integrando tudo isso aos fundamentos do desenvolvimento ágil.
 <div>
 <a href = "mailto:w3ll1n9t0n54nt05@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wellington-santos-84b9ba24a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+<!--
 ## Habilidades Técnicas
 - **Linguagens de Programação:** Python
 - **Frameworks:** Django, FastAPI 
@@ -21,11 +21,11 @@ Engenheiro de software, Cloud Architecture e um pé no DevOps gosto de resolver 
   - ECS: Implementação e orquestração de contêineres
   - EKS: Orquestração de contêineres em escala
   - E outros serviços conforme necessário para requisitos específicos do projeto
+-->
 
 
-
-                     
-<!--  <details>
+   <!--                  
+  <details>
 <br><br>
 <div  align="center"> 
  <h1 align="center">Ferramentas e Tecnologias Utilizadas.</h1><img src="https://raw.githubusercontent.com/wellington90/devops-exercises/master/images/devops.png" height="80" width="80">
