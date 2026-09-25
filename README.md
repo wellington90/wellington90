@@ -5,11 +5,17 @@
 🚀 +10 anos em Tecnologia, com foco em **Cloud Computing e Arquitetura de Soluções AWS**.
 
 ☁️ **AWS** — Solutions Architect Associate | preparação para Professional.
+
 🐍 **Python** — automação, APIs e soluções backend.
+
 🏗️ **Terraform** — Infrastructure as Code (IaC).
+
 ⚙️ **DevOps** — CI/CD, automação e observabilidade.
+
 ☸️ **Kubernetes / EKS** — containers e orquestração.
+
 🔄 **Cloud Migration** — modernização e migração de workloads.
+
 🏛️ **Solution Architecture** — soluções escaláveis, resilientes e seguras.
 
 Meu foco é **projetar, automatizar e evoluir ambientes cloud**, aplicando boas práticas de **AWS Well-Architected, DevOps, IaC e desenvolvimento de software**.
